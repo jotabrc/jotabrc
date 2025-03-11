@@ -34,8 +34,8 @@ Apaixonado por tecnologia, valorizo o trabalho em equipe e a contribuição em n
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
 
-### +++++!
-[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### +++++
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
