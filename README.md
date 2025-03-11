@@ -36,5 +36,5 @@ Apaixonado por tecnologia, valorizo o trabalho em equipe e a contribuição em n
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
-### Methodologies
+### +++++
 ![Solid](https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff)
