@@ -14,8 +14,6 @@ Java, Hibernate, Spring, Git, Maven, CircleCI, GitHub, JUnit, Lombok, Logback, S
 
 Apaixonado por tecnologia, valorizo o trabalho em equipe e a contribuição em novas ideias e projetos. Atualmente, estou buscando oportunidades como Desenvolvedor Java para aplicar minhas habilidades e colaborar com o sucesso de projetos inovadores.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jota-br&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 ### Libs and Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
