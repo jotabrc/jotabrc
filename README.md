@@ -10,9 +10,9 @@
 ### Desenvolvedor Java
 Desenvolvedor Java Back-End com experiência em Spring Framework e Railway, especializado na criação de soluções escaláveis utilizando ferramentas como Maven e Git.
 
-Apaixonado por resolver problemas complexos e contribuir para projetos inovadores, valorizo colaboração e aprendizado contínuo.
+Apaixonado por resolver problemas complexos e contribuir para projetos inovadores, valorizo a colaboração e aprendizado contínuo.
 
-Em transição de carreira, trago um forte background no setor comercial, onde desenvolvi habilidades em pensamento crítico, gestão autônoma e comunicação eficaz, características que enriqueceram meu perfil técnico e profissional. Busco oportunidades para colaborar com equipes dinâmicas e contribuir para o sucesso de projetos de impacto.
+Trago a mesma determinação e disciplina desenvolvidas na área comercial para minha transição de carreira como Desenvolvedor Java, focado em criar soluções eficientes e colaborativas em projetos inovadores.
 
 ### Projetos
 [demo Banking RESTful API](https://github.com/jota-br/demo-bank-api)
