@@ -8,14 +8,14 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
 ### Desenvolvedor Java
-Desenvolvedor Java back-end, apaixonado pela criação de soluções eficientes e escaláveis, buscando contribuir em projetos inovadores em equipes dinâmicas.
+Desenvolvedor Java Back-End com experiência em Spring Framework e Railway, especializado na criação de soluções escaláveis utilizando ferramentas como Maven e Git.
 
-Conhecimento sólido em Java, Spring e Hibernate, utilizado em conjunto com ferramentas como Maven, Git agrego valor ao desenvolvimento de novas soluções. Sempre busco novos conhecimentos, otimizo continuamente código e processos.
+Apaixonado por resolver problemas complexos e contribuir para projetos inovadores, valorizo colaboração e aprendizado contínuo.
 
-Tenho experiência com:
-Java, Hibernate, Spring, Git, Maven, CircleCI, GitHub, JUnit, Lombok, Logback, SQL, MariaDB/MySQL.
+Em transição de carreira, trago um forte background no setor comercial, onde desenvolvi habilidades em pensamento crítico, gestão autônoma e comunicação eficaz, características que enriqueceram meu perfil técnico e profissional. Busco oportunidades para colaborar com equipes dinâmicas e contribuir para o sucesso de projetos de impacto.
 
-Apaixonado por tecnologia, valorizo o trabalho em equipe e a contribuição em novas ideias e projetos. Atualmente, estou buscando oportunidades como Desenvolvedor Java para aplicar minhas habilidades e colaborar com o sucesso de projetos inovadores.
+### Projetos
+[demo Banking RESTful API](https://github.com/jota-br/demo-bank-api)
 
 ### 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
