@@ -8,7 +8,7 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
 ### Desenvolvedor Java
-Desenvolvedor Java Back-End com experiência em Spring Framework e Railway, especializado na criação de soluções escaláveis utilizando ferramentas como Maven e Git.
+Desenvolvedor Java Back-End com experiência em Spring Framework, SQL, Hibernate e Railway, especializado na criação de soluções escaláveis utilizando ferramentas como Maven e Git.
 
 Apaixonado por resolver problemas complexos e contribuir para projetos inovadores, valorizo a colaboração e aprendizado contínuo.
 
