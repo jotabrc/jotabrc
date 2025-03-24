@@ -15,11 +15,11 @@
 ---
 
 ### Desenvolvedor Java
-Desenvolvedor Java Back-End com experiência em Spring Framework, SQL, Hibernate e Railway, especializado na criação de soluções escaláveis utilizando ferramentas como Maven e Git.
+Sou Desenvolvedor Java Back-End com sólida experiência em Spring Framework, SQL, Hibernate e Railway. Utilizo ferramentas como Maven e Git para garantir processos ágeis e bem-estruturados.
 
-Apaixonado por resolver problemas complexos e contribuir para projetos inovadores, valorizo a colaboração e aprendizado contínuo.
+Apaixonado por resolver problemas complexos, gosto de contribuir para projetos inovadores, sempre valorizando a colaboração em equipe e o aprendizado contínuo.
 
-Trago a mesma determinação e disciplina desenvolvidas na área comercial para minha transição de carreira como Desenvolvedor Java, focado em criar soluções eficientes e colaborativas em projetos inovadores.
+Com uma base profissional construída na área comercial, trago a mesma determinação, disciplina e foco em resultados para minha carreira como Desenvolvedor Java. Meu objetivo é criar soluções eficazes, promover inovação e agregar valor aos projetos em que atuo.
 
 ---
 
