@@ -4,8 +4,15 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547997430082)
 [![E-mail](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ojcroveda@gmail.com)
 
-### OS
+###
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)
+---
 
 ### Desenvolvedor Java
 Desenvolvedor Java Back-End com experiência em Spring Framework, SQL, Hibernate e Railway, especializado na criação de soluções escaláveis utilizando ferramentas como Maven e Git.
@@ -14,16 +21,13 @@ Apaixonado por resolver problemas complexos e contribuir para projetos inovadore
 
 Trago a mesma determinação e disciplina desenvolvidas na área comercial para minha transição de carreira como Desenvolvedor Java, focado em criar soluções eficientes e colaborativas em projetos inovadores.
 
-### Projetos
-[demo Banking RESTful API](https://github.com/jota-br/demo-bank-api)
+---
 
-### 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)
+### Projetos
+- [demo Banking RESTful API](https://github.com/jota-br/demo-bank-api)
+- [ov-board-tasks](https://github.com/jota-br/ov-board-tasks)
+
+---
 
 ### DBs
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -33,6 +37,8 @@ Trago a mesma determinação e disciplina desenvolvidas na área comercial para 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
+
+---
 
 ### +++++
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
