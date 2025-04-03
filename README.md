@@ -24,8 +24,8 @@ Com uma base profissional construída na área comercial, trago a mesma determin
 ---
 
 ### Projetos
-- [demo Banking RESTful API](https://github.com/jota-br/demo-bank-api)
-- [ov-board-tasks](https://github.com/jota-br/ov-board-tasks)
+- [demo Banking RESTful API](https://github.com/jotabrc/demo-bank-api)
+- [ov-board-tasks](https://github.com/jotabrc/ov-board-tasks)
 
 ---
 
