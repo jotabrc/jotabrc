@@ -15,7 +15,7 @@
 ---
 
 ### Desenvolvedor Java
-Sou Desenvolvedor Java Back-End com sólida experiência em **Spring Framework**, **Kafka**, **SQL** e **Hibernate**, utilizando ferramentas como Maven e Git para garantir processos ágeis e bem-estruturados. Apaixonado por solucionar problemas complexos, busco contribuir para projetos inovadores que promovam **colaboração em equipe e aprendizado contínuo**.
+Sou Desenvolvedor Java Back-End com sólida experiência em **Spring Framework**, **Kafka**, **SQL** e **Hibernate**, utilizando ferramentas como **Maven** e **Git** para garantir processos ágeis e bem-estruturados. Apaixonado por solucionar problemas complexos, busco contribuir para projetos inovadores que promovam **colaboração em equipe e aprendizado contínuo**.
 
 Com uma base profissional construída na área comercial, trago determinação, disciplina e foco em resultados para minha atuação como Desenvolvedor Java. **Meu objetivo é criar soluções eficazes, promover inovação e agregar valor aos projetos, especialmente no desenvolvimento de APIs RESTful e arquiteturas back-end modernas**.
 
