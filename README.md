@@ -15,15 +15,14 @@
 ---
 
 ### Desenvolvedor Java
-Sou Desenvolvedor Java Back-End com sólida experiência em Spring Framework, SQL, Hibernate e Railway. Utilizo ferramentas como Maven e Git para garantir processos ágeis e bem-estruturados.
+Sou Desenvolvedor Java Back-End com sólida experiência em **Spring Framework**, **Kafka**, **SQL** e **Hibernate**, utilizando ferramentas como Maven e Git para garantir processos ágeis e bem-estruturados. Apaixonado por solucionar problemas complexos, busco contribuir para projetos inovadores que promovam **colaboração em equipe e aprendizado contínuo**.
 
-Apaixonado por resolver problemas complexos, gosto de contribuir para projetos inovadores, sempre valorizando a colaboração em equipe e o aprendizado contínuo.
-
-Com uma base profissional construída na área comercial, trago a mesma determinação, disciplina e foco em resultados para minha carreira como Desenvolvedor Java. Meu objetivo é criar soluções eficazes, promover inovação e agregar valor aos projetos em que atuo.
+Com uma base profissional construída na área comercial, trago determinação, disciplina e foco em resultados para minha atuação como Desenvolvedor Java. **Meu objetivo é criar soluções eficazes, promover inovação e agregar valor aos projetos, especialmente no desenvolvimento de APIs RESTful e arquiteturas back-end modernas**.
 
 ---
 
 ### Projetos
+- [demo eCommerce Microservices API](https://github.com/jotabrc/emicroservices-api)
 - [demo Banking RESTful API](https://github.com/jotabrc/demo-bank-api)
 - [ov-board-tasks](https://github.com/jotabrc/ov-board-tasks)
 
