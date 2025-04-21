@@ -20,6 +20,7 @@ Com uma base profissional construída na área comercial, trago determinação, 
 ---
 
 ### Projetos
+- [Ostro Veda Finance Management Application API](https://github.com/jotabrc/ov-fma)
 - [demo eCommerce Microservices API](https://github.com/jotabrc/emicroservices-api)
 - [demo Banking RESTful API](https://github.com/jotabrc/demo-bank-api)
 - [ov-board-tasks](https://github.com/jotabrc/ov-board-tasks)
