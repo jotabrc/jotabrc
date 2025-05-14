@@ -10,6 +10,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 ---
 
 ### Desenvolvedor Java
@@ -20,7 +21,7 @@ Com uma base profissional construída na área comercial, trago habilidades úte
 ---
 
 ### Projetos
-- [Ostro Veda Finance Management Application API](https://github.com/jotabrc/ov-fma)
+- [ov-fma (microservices) API](https://github.com/jotabrc/ov-fma)
 - [demo eCommerce Microservices API](https://github.com/jotabrc/emicroservices-api)
 - [demo Banking RESTful API](https://github.com/jotabrc/demo-bank-api)
 - [ov-board-tasks](https://github.com/jotabrc/ov-board-tasks)
@@ -30,6 +31,7 @@ Com uma base profissional construída na área comercial, trago habilidades úte
 ### DBs
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
