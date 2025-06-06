@@ -21,10 +21,10 @@ Com uma base profissional construída na área comercial, trago habilidades úte
 ---
 
 ### Projetos
-- [ov-fma (microservices) API](https://github.com/jotabrc/ov-fma)
-- [demo eCommerce Microservices API](https://github.com/jotabrc/emicroservices-api)
-- [demo Banking RESTful API](https://github.com/jotabrc/demo-bank-api)
-- [ov-board-tasks](https://github.com/jotabrc/ov-board-tasks)
+Microsservices & RESTful APIs:
+- [ov-ims](https://github.com/jotabrc/ov-ims)
+- [ov-fma](https://github.com/jotabrc/ov-fma)
+- [demo Banking API](https://github.com/jotabrc/demo-bank-api)
 
 ---
 
