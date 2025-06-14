@@ -13,7 +13,6 @@
 ### Desenvolvedor Java
 Software engineer | Java | Spring | back-end
 
-
 ---
 
 ### Projetos
