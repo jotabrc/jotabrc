@@ -1,8 +1,5 @@
 # João Carlos Roveda Ostrovski
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-ostrovski/)
-[![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@joaoostrovski/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547997430082)
-[![E-mail](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ojcroveda@gmail.com)
 
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
