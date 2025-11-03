@@ -13,6 +13,17 @@
 ### Desenvolvedor Java
 Software engineer | Java | Spring | back-end
 
+Sou Desenvolvedor Back End Java com sólida experiência em APIs RESTful e arquitetura de microsserviços com Spring Boot. Na equipe de integrações, sou responsável por projetar, implementar e manter a camada que conecta nosso sistema aos tribunais, garantindo que as trocas de informação ocorram corretamente e em conformidade com requisitos técnicos e legais. Minhas atividades incluem:
+
+- Implementação e evolução de microsserviços Java para comunicação com sistemas externos.  
+- Investigação, diagnóstico e correção de incidentes em produção e ambientes de teste.  
+- Desenvolvimento de melhorias contínuas no sistema orientadas a confiabilidade e performance.  
+- Garantia de qualidade por meio de testes automatizados: unitários (JUnit, Mockito), BDD, testes de integração e funcionais.  
+- Adoção de princípios SOLID, Clean Code e Design Patterns para código sustentável.  
+- Colaboração em ambiente ágil usando Git, Maven e práticas de Scrum.
+
+Procuro aplicar engenharia de software robusta para resolver integrações críticas e reduzir risco operacional, entregando soluções escaláveis e testáveis.
+
 ---
 
 ### Projetos
