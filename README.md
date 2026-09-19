@@ -1,7 +1,7 @@
 # João Carlos Roveda Ostrovski
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-ostrovski/)
 
-Construção, evolução e arquitetura de aplicações seguindo padrões de qualidade e em conformidade com requisitos técnicos e regras de negócios complexas.
+Construção, evolução e arquitetura de aplicações seguindo padrões de qualidade em conformidade com requisitos técnicos e regras de negócios complexas.
 
 * REST & SOAP Web Services: Modelagem e consumo de APIs.
 
